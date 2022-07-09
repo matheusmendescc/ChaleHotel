@@ -1,7 +1,7 @@
 # Chalé Hotel
-> Em Desenvolvimento
+> Em Desenvolvimento.
 
-<h3>Esta é uma página web para o site Notícias Cidade</h3>
+<h3>Esta é uma página web para o site Chalé Hotel</h3>
 Para estudo📚
 
 <h2>Tecnologias Usadas</h2>
