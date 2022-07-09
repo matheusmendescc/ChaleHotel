@@ -11,7 +11,7 @@ Para estudo📚
 
 <h2>Tabela de %</h2>
 
-<table>
+<table align="center">
     <tr>
         <td>
             Tecnologias Usadas
