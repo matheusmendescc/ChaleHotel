@@ -9,7 +9,7 @@ Para estudo📚
 
 <br>
 
-<h2>Tabela de %</h2>
+<h2>Tabela de Recursos</h2>
 
 <table align="center">
     <tr>
