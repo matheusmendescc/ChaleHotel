@@ -37,3 +37,5 @@ Para estudo📚
         </td>
     </tr>
 </table>
+
+ <img src="img/apresentacaoch.png">
