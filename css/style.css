@@ -206,3 +206,35 @@ p {
     background: #f6f3d6;
     cursor: pointer;
 }
+
+/*MENU PISCINA*/
+#menu-piscina {
+    height: 27em;
+    position: relative;
+}
+
+#menu-piscina img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vertical-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#area-piscina {
+    height: 2em;
+    background: #615b2d;
+}
+
+#area-piscina {
+    text-align: center;
+    color: #ede9cc;
+}
+
+.conteudo h2 {
+    font-size: 25px;
+}

@@ -1,13 +1,14 @@
 # Chalé Hotel
 
-> Em Desenvolvimento
+> Em Desenvolvimento ⚠️
 
 <h3>Esta é uma página web para o site Chalé Hotel</h3>
 <br>
-
 Para estudo📚
-
 <br>
+
+Link do Projeto: https://matheusmendescc.github.io/ChaleHotel/
+
 
 <h2>Tabela de Recursos </h2>
 
@@ -30,7 +31,7 @@ Para estudo📚
     </tr>
     <tr>
         <td>
-            CSS 3 <img align="center" alt="math-css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            CSS 3 <img align="center"  height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         </td>
         <td>
             71.6%
@@ -38,4 +39,4 @@ Para estudo📚
     </tr>
 </table>
 
- <img src="img/apresentacaoch.png">
+ <img align="center" src="https://user-images.githubusercontent.com/84646971/178148615-8a688f2b-8274-45a4-a4ef-cd94ae20cec8.gif">
