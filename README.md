@@ -17,7 +17,7 @@ Link do Projeto: https://matheusmendescc.github.io/ChaleHotel/
         <td>
             Tecnologias Usadas
         </td>
-        <td>
+        <td align="center">
             %
         </td>
     </tr>
@@ -26,7 +26,7 @@ Link do Projeto: https://matheusmendescc.github.io/ChaleHotel/
             HTML 5 <img align="center" alt="math-html" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         </td>
         <td>
-            28.4%
+            41.4%
         </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ Link do Projeto: https://matheusmendescc.github.io/ChaleHotel/
             CSS 3 <img align="center"  height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         </td>
         <td>
-            71.6%
+            58.6%
         </td>
     </tr>
 </table>
