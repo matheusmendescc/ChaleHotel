@@ -40,3 +40,4 @@ Link do Projeto: https://matheusmendescc.github.io/ChaleHotel/
 </table>
 
  <img align="center" src="https://user-images.githubusercontent.com/84646971/178148615-8a688f2b-8274-45a4-a4ef-cd94ae20cec8.gif">
+ 
