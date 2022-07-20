@@ -1,6 +1,6 @@
 # Chalé Hotel
 
-> Em Desenvolvimento ⚠️
+> Status: Em Desenvolvimento ⚠️
 
 <h3>Esta é uma página web para o site Chalé Hotel</h3>
 <br>
